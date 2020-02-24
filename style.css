@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.gray-bg{
+    background-color: #17D4AF;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(190, 61, 78);
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%  );
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    cursor: ns-resize;
+
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 12px;
+
+}
+
+.card-footer{
+    background-color:rgb(247, 247, 247);
+    border-top: none;
+}
