@@ -6,6 +6,10 @@
     background-color: #17D4AF;
     border-radius: 10px;
 }
+#product h6{
+    color:#17D4AF ;
+
+}
 
 .carousel-item{
     padding: 20px 40px;
@@ -41,3 +45,35 @@
 #smartphone h6{
     color: #17D4AF;
 }
+.container h3{
+    text-align: center;
+}
+.row h5{
+
+    color: hotpink;
+}
+#ContactUs{
+    text-align: center;
+}
+
+.contact-gmail{
+    padding: 10px;
+    margin: 30px 300px;
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+
+
+footer{
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#subscribe{
+    background-color: grey;
+    height: 300px;
+}
+#subscribe h3,h6{
+    color:white;
+}
+
